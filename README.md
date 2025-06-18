@@ -22,3 +22,4 @@ To develop engaging and brand-consistent graphic designs that reflect the identi
 
 ## 📁 Folder Structure
 
+![Mockup](SOUL(1).png)
