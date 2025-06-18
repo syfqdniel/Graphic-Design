@@ -22,4 +22,4 @@ To develop engaging and brand-consistent graphic designs that reflect the identi
 
 ## 📁 Folder Structure
 
-![](SOUL(1).png)
+![Poster Design](SOUL(1).png)
